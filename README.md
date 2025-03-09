@@ -1,3 +1,3 @@
 # test-repo
 modificato per redmine
-altre modifiche per testare la docker git di redmine
+altre modifiche per testare la docker git di redmine : ulteriori modifiche
